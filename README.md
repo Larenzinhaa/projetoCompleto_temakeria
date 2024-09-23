@@ -15,7 +15,7 @@
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/724aeac0-39bc-441c-a013-ea11b28127c6">
 
 
-- protótipo de site para mobile 📱
+- protótipo de site para mobile 📱 
 
 ![image](https://github.com/user-attachments/assets/36945054-640e-4887-9479-896c3a1c9f2d)
 
